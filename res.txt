@@ -1,0 +1,102 @@
+Possible Classification of questions into easy, medium, hard
+No. of easy questions are: 0
+No. of medium questions are: 1
+No. of hard questions are: 0
+*****************************************
+Question 1 is in 1, 4
+Question 2 is in 1, 3, 5, 6
+Question 3 is in 1, 3, 4, 6
+Question 4 is in 1, 2, 3, 4, 5, 6
+Question 5 is in 1, 2, 3, 4, 5
+Question 6 is in 1, 3, 5
+Question 7 is in 1, 2, 3, 6
+Question 8 is in 1, 4
+Question 9 is in 1, 4, 5
+Question 10 is in 1, 2, 6
+Question 11 is in 1, 2
+Question 12 is in 1, 2, 6
+Question 13 is in 1, 2
+Question 14 is in 1, 2, 6
+Possible Classification of questions into easy, medium, hard
+No. of easy questions are: 2
+No. of medium questions are: 5
+No. of hard questions are: 7
+*****************************************
+The questions topic-wise is as follows:
+
+Note: Few of the questions could not be mapped.
+
+Question number 1 is probably from the topic number 2.1
+
+Question number 2 is probably from the topic number 13.5
+
+Question number 3 is probably from the topic number 2.2
+
+Question number 6 is probably from the topic number 13.1
+
+Question number 9 is probably from the topic number 13.5
+
+Question number 11 is probably from the topic number 21.1
+
+Question number 12 is probably from the topic number 21.1
+
+Question number 13 is probably from the topic number 21.1
+
+Question 1 is in 1, 5
+Question 2 is in 1
+Question 3 is in 1, 3
+Question 4 is in 1, 2, 5
+Question 5 is in 1, 3, 5, 6
+Question 6 is in 1, 2, 3, 4, 5, 6
+Question 7 is in 1, 2, 3, 4, 5
+Question 8 is in 1, 2, 3, 6
+Question 9 is in 1, 4, 5
+Question 10 is in 1, 2, 5, 6
+Question 11 is in 1, 2
+Question 12 is in 1, 6
+Question 13 is in 1, 2
+Question 14 is in 1, 2, 5
+Question 15 is in 1, 2
+Question 16 is in 1, 2
+Question 17 is in 1, 2, 6
+Possible Classification of questions into easy, medium, hard
+No. of easy questions are: 6
+No. of medium questions are: 5
+No. of hard questions are: 6
+*****************************************
+The questions topic-wise is as follows:
+
+Note: Few of the questions could not be mapped.
+
+Question number 1 is probably from the topic number 2.1
+
+Question number 2 is probably from the topic number 13.5
+
+Question number 3 is probably from the topic number 2.2
+
+Question number 6 is probably from the topic number 13.1
+
+Question number 9 is probably from the topic number 13.5
+
+Question number 11 is probably from the topic number 21.1
+
+Question number 12 is probably from the topic number 21.1
+
+Question number 13 is probably from the topic number 21.1
+
+Question number 1 is probably from the topic number 2.1
+
+Question number 3 is probably from the topic number 2.2
+
+Question number 5 is probably from the topic number 13.5
+
+Question number 7 is probably from the topic number 13.1
+
+Question number 9 is probably from the topic number 13.5
+
+Question number 10 is probably from the topic number 13.5
+
+Question number 11 is probably from the topic number 21.1
+
+Question number 16 is probably from the topic number 21.1
+
